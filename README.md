@@ -24,3 +24,9 @@ This repository contains free books on different programming languages, Concepts
     "bookLink"   : "https://www.avabodh.com/cin/cin.html"
 },
 ```
+{
+    "id" : "14",
+    "bookName" : "Kotlin in Action",
+    "authorName" : "Svetlana Isakova",
+    "bookLink"   : "https://www.manning.com/books/kotlin-in-action"
+},
